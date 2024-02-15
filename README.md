@@ -4,8 +4,7 @@
 
 ##🌟 Proyectos Destacados 🌟
 
-1. **[💌ADMV💌](https://github.com/teoaranda/admv)**
-   **[LINK A LA WEB](https://teoaranda.github.io/admv/)**
+1. **[💌ADMV💌](https://github.com/teoaranda/admv)** ➡️ **[LINK A LA WEB](https://teoaranda.github.io/admv/)**
    - Una página web dedicada a mi actual pareja con enfoque a ser un museo solo para ella❤️.
 
 3. **[📚StudIA📚](https://github.com/teoaranda/StudIA)**
