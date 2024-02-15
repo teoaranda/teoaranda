@@ -1,4 +1,4 @@
-![Hello alternative](https://store.micronetbolivia.com/images/chipM1.gif)
+<p align="center">![Hello alternative](https://store.micronetbolivia.com/images/chipM1.gif)</p>
 
 ## 🚀 Welcome to my Portfolio 🚀
 
