@@ -22,7 +22,7 @@ Hello! I'm Teo, a passionate software developer with experience in backend and f
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" heigth="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" heigth="50">
-<img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="50" heigth="50">
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" width="50" heigth="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" heigth="50">
 <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="50" heigth="50">
 <img src="https://www.psdevwiki.com/vita/images/f/fb/Xml-logo.png" width="50" heigth="50">
