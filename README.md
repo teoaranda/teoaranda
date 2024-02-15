@@ -1,4 +1,4 @@
-![Hello alternative](https://cdn.dribbble.com/users/846207/screenshots/17959159/media/dc07410e8b8d150fee62a8faf0ea67f7.gif)
+![Hello alternative](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 ## 🚀 Welcome to my Portfolio 🚀
 
