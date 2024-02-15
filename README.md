@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F17959159-Hello&psig=AOvVaw2BKjWIzh-OCFgB588v0R5q&ust=1708079310650000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC4uLmRrYQDFQAAAAAdAAAAABAp)
+![Hello alternative](https://cdn.dribbble.com/users/846207/screenshots/17959159/media/dc07410e8b8d150fee62a8faf0ea67f7.gif)
 
 ## 🚀 Welcome to my Portfolio 🚀
 
