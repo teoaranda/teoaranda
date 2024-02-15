@@ -4,9 +4,10 @@
 
 ## Proyectos Destacados
 
-1. **[ADMV](https://github.com/teoaranda/admv) LINK A LA WEB--> (https://teoaranda.github.io/admv/)** - Una página web dedicada a mi actual pareja con enfoque a ser un museo solo para ella❤️.
+1. **[ADMV](https://github.com/teoaranda/admv) LINK A LA WEB--> (https://teoaranda.github.io/admv/)**
+   - Una página web dedicada a mi actual pareja con enfoque a ser un museo solo para ella❤️.
 
-2. **[StudIA](https://github.com/teoaranda/StudIA)** - Proyecto de startup de una aplicación para el estudio autonomo y promover la forma autididacta de estudio🧠.
+3. **[StudIA](https://github.com/teoaranda/StudIA)** - Proyecto de startup de una aplicación para el estudio autonomo y promover la forma autididacta de estudio🧠.
 
 ## Tecnologías Utilizadas
 
