@@ -1,8 +1,9 @@
-###🚀 Bienvenido a mi Portafolio 🚀
+###🚀Bienvenido a mi Portafolio🚀
 
 ¡Hola! Soy Teo, un apasionado desarrollador/a de software con experiencia en backend y frontend. Este es mi portafolio donde podrás encontrar algunos de los proyectos en los que he trabajado.
+Actualmente estoy estudiando Dearrollo de Aplicaciones Multiplataforma
 
-##🌟 Proyectos Destacados 🌟
+##🌟Proyectos Destacados🌟
 
 1. **[💌ADMV💌](https://github.com/teoaranda/admv)** ➡️ **[LINK A LA WEB](https://teoaranda.github.io/admv/)**
    - Una página web dedicada a mi actual pareja con enfoque a ser un museo solo para ella❤️.
@@ -10,7 +11,7 @@
 3. **[📚StudIA📚](https://github.com/teoaranda/StudIA)**
    - Proyecto de startup de una aplicación para el estudio autonomo y promover la forma autodidacta de estudio🧠.
 
-##⚙️ Tecnologías Utilizadas ⚙️
+##⚙️Tecnologías Utilizadas⚙️
 
 - 💻 HTML/CSS
 - 🚀 Java
@@ -18,7 +19,7 @@
 - 🧰 SQL
 - 📜 XML
 
-##📥 Contacto 📥
+##📥Contacto📥
 
 ¡Si quieres colaborar en alguno de mis proyectos o simplemente charlar sobre desarrollo de software, no dudes en ponerte en contacto conmigo!
 
