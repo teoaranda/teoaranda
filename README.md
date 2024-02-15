@@ -1,17 +1,16 @@
-## 🚀Bienvenido a mi Portafolio🚀
+## 🚀 Welcome to my Portfolio 🚀
 
-¡Hola! Soy Teo, un apasionado desarrollador/a de software con experiencia en backend y frontend. Este es mi portafolio donde podrás encontrar algunos de los proyectos en los que he trabajado.
-Actualmente estoy estudiando Dearrollo de Aplicaciones Multiplataforma
+Hello! I'm Teo, a passionate software developer with experience in backend and frontend. Currently, I'm studying Multiplatform Application Development. This is my portfolio where you can find some of the projects I've worked on.
 
-### 🌟Proyectos Destacados🌟
+### 🌟 Featured Projects 🌟
 
-1. **[💌ADMV💌](https://github.com/teoaranda/admv)** ➡️ **[LINK A LA WEB](https://teoaranda.github.io/admv/)**
-   - Una página web dedicada a mi actual pareja con enfoque a ser un museo solo para ella❤️.
+1. **[💌 ADMV 💌](https://github.com/teoaranda/admv)** ➡️ **[LINK TO THE WEBSITE](https://teoaranda.github.io/admv/)**
+   - A website dedicated to my current partner with a focus on being a museum just for her ❤️.
 
-3. **[📚StudIA📚](https://github.com/teoaranda/StudIA)**
-   - Proyecto de startup de una aplicación para el estudio autonomo y promover la forma autodidacta de estudio🧠.
+2. **[📚 StudIA 📚](https://github.com/teoaranda/StudIA)**
+   - Startup project of an application for autonomous study and promoting self-taught study 🧠.
 
-### ⚙️Tecnologías Utilizadas⚙️
+### ⚙️ Technologies Used ⚙️
 
 - 💻 HTML/CSS
 - 🚀 Java
@@ -19,9 +18,9 @@ Actualmente estoy estudiando Dearrollo de Aplicaciones Multiplataforma
 - 🧰 SQL
 - 📜 XML
 
-### 📥Contacto📥
+### 📥 Contact 📥
 
-¡Si quieres colaborar en alguno de mis proyectos o simplemente charlar sobre desarrollo de software, no dudes en ponerte en contacto conmigo!
+If you want to collaborate on any of my projects or just chat about software development, feel free to get in touch with me!
 
 - LinkedIn: [Teo Aranda Páez](https://www.linkedin.com/feed/)
-- Correo Electrónico: [teoap2005@gmail.com](mailto:teoap2005@gmail.com)
+- Email: [teoap2005@gmail.com](mailto:teoap2005@gmail.com)
