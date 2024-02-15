@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bienvenido a mi Portafolio 🚀
 
-<!--
-**teoaranda/teoaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Teo, un apasionado desarrollador/a de software con experiencia en backend y frontend. Este es mi portafolio donde podrás encontrar algunos de los proyectos en los que he trabajado.
 
-Here are some ideas to get you started:
+## Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **[ADMV](https://github.com/teoaranda/admv)** - Una página web dedicada a mi actual pareja con enfoque a ser un museo solo para ella❤️.
+
+2. **[StudIA](https://github.com/teoaranda/StudIA)** - Proyecto de startup de una aplicación para el estudio autonomo y promover la forma autididacta de estudio🧠.
+
+## Tecnologías Utilizadas
+
+- 💻 HTML/CSS
+- 🚀 Java
+- 🐍 Python
+- 🧰 SQL
+- 📜 XML
+
+## Contacto
+
+¡Si quieres colaborar en alguno de mis proyectos o simplemente charlar sobre desarrollo de software, no dudes en ponerte en contacto conmigo!
+
+- LinkedIn: [Teo Aranda Páez](https://www.linkedin.com/feed/)
+- Correo Electrónico: [teoap2005@gmail.com](mailto:teoap2005@gmail.com)
