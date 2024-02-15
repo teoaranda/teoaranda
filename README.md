@@ -1,3 +1,5 @@
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F17959159-Hello&psig=AOvVaw2BKjWIzh-OCFgB588v0R5q&ust=1708079310650000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC4uLmRrYQDFQAAAAAdAAAAABAp)
+
 ## 🚀 Welcome to my Portfolio 🚀
 
 Hello! I'm Teo, a passionate software developer with experience in backend and frontend. Currently, I'm studying Multiplatform Application Development. This is my portfolio where you can find some of the projects I've worked on.
