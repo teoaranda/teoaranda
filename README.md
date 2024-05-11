@@ -9,8 +9,8 @@ Hello! I'm Teo, a passionate software developer with experience in backend and f
 1. **[💌 ADMV 💌](https://github.com/teoaranda/admv)** ➡️ **[LINK TO THE WEBSITE](https://teoaranda.github.io/admv/)**
    - A website dedicated to my current partner with a focus on being a museum just for her ❤️.
 
-2. **[📚 StudIA 📚](https://github.com/teoaranda/StudIA)**
-   - Startup project of an application for autonomous study and promoting self-taught study 🧠.
+2. **[THE EYE](https://github.com/teoaranda/StudIA)**
+   - Startup project for autonomous study and promoting self-taught study 🧠.
 
 ### ⚙️ Technologies Used ⚙️
 
